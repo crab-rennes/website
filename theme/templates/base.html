@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+    {% block head %}
+    <title>{{ SITENAME }} — {% block title %}{% endblock title %}</title>
+    <meta charset="utf-8" />
+    {% block meta_extra %}{% endblock %}
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/main.css" />
+    <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
+    <link rel="icon" type="image/png" href="{{ SITEURL }}/theme/images/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!--[if lte IE 8]><script src="{{ SITEURL }}/theme/js/html5shiv.js"></script><![endif]-->
+    <!--[if lte IE 8]><link rel="stylesheet" href="{{ SITEURL }}/theme/css/ie8.css" /><![endif]-->
+  {% endblock head %}
+    </head>
+    <body class="homepage">
+        <div id="page-wrapper">
+
+            {% block content %}{% endblock %}
+
+                <div id="footer-wrapper" class="wrapper">
+                    <div id="footer" class="container">
+                        <header class="style1">
+                            <h2>Vous avez envie d'échanger sur la fabrication de bière ?</h2>
+                            <p>
+                                Venez à notre prochain rendez-vous ou adhérez <br />à l'association !
+                            </p>
+                            <ul class="actions actions-centered">
+                                <li><a href="https://www.helloasso.com/associations/collectif-rennais-des-amateurs-de-bieres-crab/adhesions/adhesion-au-crab" class="button style1 big">Adhésion en ligne</a></li>
+                                <li><a href="https://fb.com/CRABRennes" class="button style1 big">Page Facebook du CRAB</a></li>
+                            </ul>
+                        </header>
+                        <hr />
+                    </div>
+                    <div id="copyright">
+                        <ul>
+                            <li>Le logo du CRAB est un travail de <a href="https://www.clementdroff.fr">Clément Droff</a></li>
+                            <li>Design par <a href="http://html5up.net">HTML5 UP</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+        </div>
+
+        <!-- Scripts -->
+
+            <script src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
+            <script src="{{ SITEURL }}/theme/js/jquery.dropotron.min.js"></script>
+            <script src="{{ SITEURL }}/theme/js/skel.min.js"></script>
+            <script src="{{ SITEURL }}/theme/js/skel-viewport.min.js"></script>
+            <script src="{{ SITEURL }}/theme/js/util.js"></script>
+            <!--[if lte IE 8]><script src="{{ SITEURL }}/theme/js/ie/respond.min.js"></script><![endif]-->
+            <script src="{{ SITEURL }}/theme/js/main.js"></script>
+
+    </body>
+</html>
