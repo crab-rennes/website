@@ -2872,3 +2872,7 @@
 		#features img {
 			max-width: 100%;
 		}
+
+		#features {
+			color: black;
+		}
