@@ -23,6 +23,7 @@
 {% block content %}
     {% if page.template_type == 'full-html' %}
     {{ page.content }}
+    {{ page.body }}
     {% else %}
     <!-- Wrapper -->
       <section id="wrapper">

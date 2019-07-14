@@ -18,6 +18,24 @@
 
             {% block content %}{% endblock %}
 
+            <!-- Highlights -->
+        <div class="wrapper style3">
+            <div class="title">Les dernières nouvelles</div>
+            <div id="highlights" class="container">
+                <div class="row 150%">
+                {% for article in dates %}
+                <div class="4u 12u(mobile)">
+                    <section class="highlight">
+                        <a href="{{ SITEURL }}/{{ article.url }}" class="image featured"><img src="{{ article.image }}" alt="" /></a>
+                        <h3><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
+                        <p>{{ article.accroche }}</p>
+                    </section>
+                </div>
+                {% endfor %}
+                </div>
+            </div>
+        </div>
+
                 <div id="footer-wrapper" class="wrapper">
                     <div id="footer" class="container">
                         <header class="style1">

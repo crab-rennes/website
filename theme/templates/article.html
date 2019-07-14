@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block meta_extra %}
+	{% if article.stylesheets %}
+		{% for stylesheet in article.stylesheets %}
+			{{ stylesheet }}
+		{% endfor %}
+	{% endif %}
+{% endblock %}
+{% block body_extra %}
+{% if article.javascripts %}
+	{% for javascript in article.javascripts %}
+		{{ javascript }}
+	{% endfor %}
+{% endif %}
+{% endblock %}
+{% block title %}{{ article.title }}{%endblock%}
+
+{% block content %}
+
+    <!-- Header -->
+    <div id="article" style="background: url('{{ article.image }}') center center; background-size: cover;" class="wrapper">
+        <div id="header">
+            <p class="date">{{ article.locale_date }}</p>
+        </div>
+    </div>
+
+    <!-- Main -->
+    <div class="wrapper style2">
+        <div class="title">{{ article.title }}</div>
+        <div id="main" class="container">
+            <section id="features">
+            {{ article.content }}
+            </section>
+        </div>
+    </div>
+{% endblock %}
