@@ -1,6 +1,6 @@
 title: Concours des brasseurs amateurs du CRAB #2
 accroche: A vos fourquets !
-image: images/about/brassins-thematiques.jpg
+image: /images/about/brassins-thematiques.jpg
 date: 2019-07-14
 status: draft
 
