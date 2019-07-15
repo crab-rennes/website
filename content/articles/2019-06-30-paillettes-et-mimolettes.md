@@ -61,7 +61,7 @@ Les houblons!
 
 Arrivée de quelques plans de houblon chinook!
 
-![IMG 8494](/images/paillettes/IMG_8494.jpg)![IMG 8488](/images/paillettes/IMG_8488.jpg)
+![IMG 8494](/images/paillettes/IMG_8488.jpg)![IMG 8488](/images/paillettes/IMG_8488.jpg)
 
 Transfert dans un seau pour pouvoir aller refroidir à l’arrière cours (nous n’avions pas de connection d’eau proche) et transfert dans un keg. 
 
