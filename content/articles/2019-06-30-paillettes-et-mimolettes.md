@@ -12,7 +12,7 @@ Pour la levure, nous avons utilisé la *American Farmhouse Ale* ou *C2C* de chez
 
 Ce fut l’occasion d’étrenner notre toute nouvelle banderole et les autocollants gracieusement offerts par Yannick Berthou et son associé. Nous avions emprunté un barnum pour l’occasion, et [le Coin Mousse](https://www.lecoinmousse.com/) nous a prêté un bar. Quelques livres, des pots de houblons et de malt, un *grainfather* pour le chauffage et le refroidissage, et la glacière prêtée par [https://bretagne-brewshop.com/](Bretagne Brewshop), qui nous a offert le malt déjà concassé.
 
-La journée s’est très bien passée, nous étions bien sous notre barnum, il y a eu beaucoup de passage, avec des questions sur le CRAB et ses activités, sur la bière, et sur le brassage. Les passans en ont bien sur profité pour humer les odeurs sortant de la glacière ou de la cuve d'ébullition, et pour sentir les houblons et goûter le malt !
+La journée s’est très bien passée, nous étions bien sous notre barnum, il y a eu beaucoup de passage, avec des questions sur le CRAB et ses activités, sur la bière, et sur le brassage. Les passants en ont bien sur profité pour humer les odeurs sortant de la glacière ou de la cuve d'ébullition, et pour sentir les houblons et goûter le malt !
 
 On remercie Jérémy et [Bretagne Brewshop](https://bretagne-brewshop.com/) pour la matière première, Yannick pour la banderole et les autocollants, [le Coin Mousse](https://www.lecoinmousse.com/) pour le prêt du bar, et bien entendu tous les participants ! Ci-dessous la journée au fil des photos.
 
