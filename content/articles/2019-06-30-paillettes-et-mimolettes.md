@@ -43,7 +43,7 @@ Arrivée des autocollants du CRAB !
 
 Yann, à qui nous devons la banderole et les autocollants, avec ses réalisations.
 
-![IMG 8459](/images/paillettes/MG_8459.jpeg)
+![IMG 8459](/images/paillettes/IMG_8459.jpg)
 
 Pas de rinçage avec ce système, mais il faut presser le sac pour bien extraire les sucres et le plus de moût possible !
 
