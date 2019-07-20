@@ -1,4 +1,4 @@
-title: 2ème concours des brasseurs amateurs
+title: Le premier concours annuel des brasseurs amateurs du CRAB
 slug: concours-brassam-2
 accroche: A vos fourquets !
 image: /images/about/brassins-thematiques.jpg
@@ -7,7 +7,7 @@ status: draft
 
 ![Logo du CRAB](/images/about/crab-logo-petit.jpg){: .image .right}
 
-Le CRAB (Collectif Rennais des Amateurs de Bières) organise pour la seconde édition un concours des brasseurs amateurs.
+Le CRAB (Collectif Rennais des Amateurs de Bières) organise pour la première édition un concours des brasseurs amateurs.
 Pour cette édition, **le style « Session IPA » est imposé**: une bière assez houblonnée, avec une bonne *buvabilité* et qui reste sous les 4,5° d'alcool.
 
 Il est possible de concourir avec tout type de *Session IPA*.
@@ -67,6 +67,6 @@ Nous sommes à la recherche de personnes à même de faire « Jury » pour le co
 
 L'évènement est rendu possible grace au soutien de nos partenaires. Un grand merci à eux !
 
-[![Brasserie du Vieux Singe](/images/concours2/partenaires/vieuxsinge.png){: width=150}](https://www.vieuxsinge.com)[![Au père bouc](/images/concours2/partenaires/perebouc.png){: width=150}](https://www.facebook.com/auperebouccave)[![Chez Alain](/images/concours2/partenaires/alain.gif){: width=150}](https://fr-fr.facebook.com/pages/category/Shopping---Retail/Chez-Alain-637261699686875/)[![Maloan](/images/concours2/partenaires/maloan.png){: width=150}](http://maloan.fr/)[![Le marchand de bières](/images/concours2/partenaires/biozh.jpeg){: width=150}](https://www.biozh.fr)[![St Malo Craft Beer Expo](/images/concours2/partenaires/stmalocraftbeerexpo.png){: width=150}](https://www.vieuxsinge.com)
+[![Brasserie du Vieux Singe](/images/concours2019/partenaires/vieuxsinge.png){: width=150}](https://www.vieuxsinge.com)[![Au père bouc](/images/concours2019/partenaires/perebouc.png){: width=150}](https://www.facebook.com/auperebouccave)[![Chez Alain](/images/concours2019/partenaires/alain.gif){: width=150}](https://fr-fr.facebook.com/pages/category/Shopping---Retail/Chez-Alain-637261699686875/)[![Maloan](/images/concours2019/partenaires/maloan.png){: width=150}](http://maloan.fr/)[![Le marchand de bières](/images/concours2019/partenaires/biozh.jpeg){: width=150}](https://www.biozh.fr)[![St Malo Craft Beer Expo](/images/concours2019/partenaires/stmalocraftbeerexpo.png){: width=150}](https://www.vieuxsinge.com)
 
 A vos fourquets !
