@@ -1,5 +1,5 @@
 title: Le premier concours annuel des brasseurs amateurs du CRAB
-slug: concours-brassam-2
+slug: concours-brassam-2019
 accroche: A vos fourquets !
 image: /images/about/brassins-thematiques.jpg
 date: 2019-07-14
