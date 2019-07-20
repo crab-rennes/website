@@ -4,25 +4,38 @@ image: /images/about/brassins-thematiques.jpg
 date: 2019-07-14
 status: draft
 
+![Logo du CRAB](/images/about/crab-logo-petit.jpg){: .image .right}
+
 Le CRAB (Collectif Rennais des Amateurs de Bières) organise pour la seconde édition un concours des brasseurs amateurs.
-Pour cette édition, le style « Session IPA » est imposé. Une bière assez houblonnée, avec une bonne *buvabilité* et qui reste sous les 4,5° d'alcool.
+Pour cette édition, **le style « Session IPA » est imposé**: une bière assez houblonnée, avec une bonne *buvabilité* et qui reste sous les 4,5° d'alcool.
 
-## Prix
+Il est possible de concourir avec tout type de *Session IPA*.
 
-- 1er prix : Brassage de la recette gagnante avec la [Brasserie du Vieux Singe](https://www.vieuxsinge.com) 
-- 2ème prix : un système de remplissage à contre pression type « BeerGun »
-- 3ème prix : un sodakeg
+# Un concours ?
 
-Les gagnant·e·s auront également chacun·e une entrée pour le [St Malo Craft Beer Expo](https://saintmalocraftbeerexpo.com/) + 6 jetons dégustation
+Rassurez vous, on n'aime pas spécialement l'idée de se confronter les uns aux autres pour trouver toujours la meilleure bière. L'idée ici est de rester dans une saine émulation, et de créer un environnement dans lequel les évaluations sont bienvenues, mais pour autant franches. 
 
-## Inscriptions
+# Prix
 
-Une participation de 10€ (ou une adhésion au CRAB) est demandée pour participer.
-**Inscription avant le 30 octobre 2019**. Délibérations le samedi 16 novembre.
+Pour avoir un peu de challenge, on à décidé pour cette édition de proposer des prix qu'on trouve un peu sympa. On espère que les prix vous plairont autant qu'à nous !
 
-Dépôt de 3 bouteilles avant le 14 novembre. Voici le réglement du concours :
+- 1er prix : **Brassage de la recette gagnante avec la [Brasserie du Vieux Singe](https://www.vieuxsinge.com)**, à Rennes St Jacques.
+- 2ème prix : **un système de remplissage à contre pression type « BeerGun »**, question d'éviter l'oxydation !
+- 3ème prix : **un sodakeg**, pour fermenter, ou juste servir vos bières en pression !
 
-## Règlement
+Les gagnant·e·s auront également chacun·e une entrée pour le [St Malo Craft Beer Expo](https://saintmalocraftbeerexpo.com/) avec 6 jetons dégustation.
+
+# Inscriptions
+
+Les inscription se font en ligne, **avant le 30 octobre 2019**. Une participation de 10€ (ou une adhésion au CRAB) est demandée pour participer. Dépôt de 3 bouteilles avant le 14 novembre puis délibérations le samedi 16 novembre. D'après nos calculs, il faudrait que vous brassiez en Septembre ;-)
+
+<ul class="actions actions-centered">
+    <li>
+        <a class="button style1 big" href="https://alexis605337.typeform.com/to/MtYK7u" target="_blank">S'inscrire </a>
+    </li>
+</ul>
+
+# Règlement
 
 1. **Style unique : Bières de type « Session »**. Le style est décidé par les brasseurs pros chez qui les gagnant⋅e⋅s pourront aller brasser. Cette année la Brasserie du Vieux Singe. Degré d'alcool inférieur à 4.5%pour tous les styles où cela est possible (cf. BJCP -- liste des styles avec session existante.) La brasserie brassant bio, une contrainte est mise sur les types de malts et houblons utilisés.
 
@@ -39,6 +52,12 @@ Dépôt de 3 bouteilles avant le 14 novembre. Voici le réglement du concours :
 7. Les bières seront réparties par style avoisinants pour déterminer un *best-in-show* (dernier round avec les gagnants de chaque table). Les grands gagnants sortiront de ce *best-in-show*.  
 
 8. Comme toujours, le jury est souverain.
+
+# Nos partenaires !
+
+L'évènement est rendu possible grace au soutien de nos partenaires. Un grand merci à eux !
+
+[![Brasserie du Vieux Singe](/images/concours2/partenaires/vieuxsinge.png){: width=150}](https://www.vieuxsinge.com)[![Au père bouc](/images/concours2/partenaires/perebouc.png){: width=150}](https://www.facebook.com/auperebouccave)[![Chez Alain](/images/concours2/partenaires/alain.gif){: width=150}](https://fr-fr.facebook.com/pages/category/Shopping---Retail/Chez-Alain-637261699686875/)[![Maloan](/images/concours2/partenaires/maloan.png){: width=150}](http://maloan.fr/)[![Le marchand de bières](/images/concours2/partenaires/biozh.jpeg){: width=150}](https://www.biozh.fr)[![St Malo Craft Beer Expo](/images/concours2/partenaires/stmalocraftbeerexpo.png){: width=150}](https://www.vieuxsinge.com)
 
 
 A vos fourquets !
