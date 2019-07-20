@@ -37,6 +37,7 @@ Les inscription se font en ligne, **avant le 30 octobre 2019**. Une participatio
         <a class="button style1 big" href="https://alexis605337.typeform.com/to/MtYK7u" target="_blank">S'inscrire </a>
     </li>
 </ul>
+<footer class="style1"><p class="spacer"></p></footer>
 
 # Vous voulez nous aider ?
 
