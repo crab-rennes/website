@@ -1,4 +1,4 @@
-title: Concours des brasseurs amateurs du CRAB #2
+title: 2ème concours des brasseurs amateurs.
 accroche: A vos fourquets !
 image: /images/about/brassins-thematiques.jpg
 date: 2019-07-14
@@ -34,6 +34,10 @@ Les inscription se font en ligne, **avant le 30 octobre 2019**. Une participatio
         <a class="button style1 big" href="https://alexis605337.typeform.com/to/MtYK7u" target="_blank">S'inscrire </a>
     </li>
 </ul>
+
+# Vous voulez nous aider ?
+
+Nous sommes à la recherche de personnes à même de faire « Jury » pour le concours, ainsi que de *petites mains* pour nous aider le jour de la dégustation. Si vous souhaitez nous aider, vous pouvez nous contacter à l'adresse `concours - chez - crab-rennes.fr`. Merci !
 
 # Règlement
 
