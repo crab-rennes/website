@@ -7,7 +7,8 @@ status: draft
 
 ![Logo du CRAB](/images/about/crab-logo-petit.jpg){: .image .right}
 
-Le CRAB (Collectif Rennais des Amateurs de Bières) organise pour la première édition un concours des brasseurs amateurs.
+Le CRAB (Collectif Rennais des Amateurs de Bières) organise pour la première édition un concours des brasseurs amateurs. **Les inscriptions sont ouvertes jusqu'au 30 Octobre 2019.**
+
 Pour cette édition, **le style « Session IPA » est imposé**: une bière assez houblonnée, avec une bonne *buvabilité* et qui reste sous les 4,5° d'alcool.
 
 Il est possible de concourir avec tout type de *Session IPA*.
@@ -30,7 +31,7 @@ Les gagnant·e·s auront également chacun·e une entrée pour le [St Malo Craft
 
 # Inscriptions
 
-Les inscription se font en ligne, **avant le 30 octobre 2019**. Une participation de 10€ (ou une adhésion au CRAB) est demandée pour participer. Dépôt de 3 bouteilles avant le 14 novembre puis délibérations le samedi 16 novembre. D'après nos calculs, il faudrait que vous brassiez en Septembre ;-)
+Les inscription se font en ligne, **avant le 30 octobre 2019**. Une participation de 10€ (ou une adhésion au CRAB) est demandée pour participer. Dépôt de 3 bouteilles (de 33cl ou plus) avant le 14 novembre. D'après nos calculs, il faudrait que vous brassiez en Septembre ;-)
 
 <ul class="actions actions-centered">
     <li>
@@ -39,11 +40,13 @@ Les inscription se font en ligne, **avant le 30 octobre 2019**. Une participatio
 </ul>
 <footer class="style1"><p class="spacer"></p></footer>
 
+Les bières selectionnées seront annoncées **le 16 Novembre à 20h**, au bar « Le Sur Mesure », 18 rue de Robien, 35000 Rennes.
+
 # Vous voulez nous aider ?
 
 Nous sommes à la recherche de personnes à même de faire « Jury » pour le concours, ainsi que de *petites mains* pour nous aider le jour de la dégustation. Si vous souhaitez nous aider, vous pouvez nous contacter à l'adresse `concours - chez - crab-rennes.fr`. Merci !
 
-# Règlement
+# Règles du concours
 
 1. **Style unique : Bières de type « Session »**. Le style est décidé par les brasseurs pros chez qui les gagnant⋅e⋅s pourront aller brasser. Cette année la Brasserie du Vieux Singe. Degré d'alcool inférieur à 4.5%pour tous les styles où cela est possible (cf. BJCP -- liste des styles avec session existante.) La brasserie brassant bio, une contrainte est mise sur les types de malts et houblons utilisés.
 
@@ -59,7 +62,7 @@ Nous sommes à la recherche de personnes à même de faire « Jury » pour le co
 
 7. Les bières seront réparties par style avoisinants pour déterminer un *best-in-show* (dernier round avec les gagnants de chaque table). Les grands gagnants sortiront de ce *best-in-show*.  
 
-8. Toutes les bouteilles concourrant doivent être fabriqués par des brasseurs amateurs, les brasseurs pro peuvent concourir mais uniquement en utilisant leur matériel personnel.
+8. Toutes les bouteilles concourrant doivent être fabriquées par des brasseu·ses·rs amateur·e·s, les brasseurs pro peuvent concourir mais uniquement en utilisant leur matériel personnel.
 
 9. Comme toujours, le jury est souverain.
 
