@@ -1,4 +1,4 @@
-title: 2ème concours des brasseurs amateurs.
+title: 2ème concours des brasseurs amateurs
 slug: concours-brassam-2
 accroche: A vos fourquets !
 image: /images/about/brassins-thematiques.jpg
@@ -15,6 +15,8 @@ Il est possible de concourir avec tout type de *Session IPA*.
 # Un concours ?
 
 Rassurez vous, on n'aime pas spécialement l'idée de se confronter les uns aux autres pour trouver toujours la meilleure bière. L'idée ici est de rester dans une saine émulation, et de créer un environnement dans lequel les évaluations sont bienvenues, mais pour autant franches.
+
+Le concours est ouvert à tou·te·s les brasseu·rs·ses amateur·e·s, donc n'hésitez pas à participer !
 
 # Prix
 
