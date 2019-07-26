@@ -26,7 +26,11 @@ Pour avoir un peu de challenge, on à décidé pour cette édition de proposer d
 - 2ème prix : **un système de remplissage à contre pression type « BeerGun »**, question d'éviter l'oxydation !
 - 3ème prix : **un sodakeg**, pour fermenter, ou juste servir vos bières en pression !
 
-Les gagnant·e·s auront également chacun·e une entrée pour le [St Malo Craft Beer Expo](https://saintmalocraftbeerexpo.com/) avec 6 jetons dégustation.
+Mais aussi… : 
+
+- Une entrée pour chaque finaliste pour le [St Malo Craft Beer Expo](https://saintmalocraftbeerexpo.com/) avec 6 jetons dégustation.
+- Des bons d'achats de 30€, 20€ et 15€ sur [Bretagne Brewshop](https://bretagne-brewshop.com/), avec un kit recette pour la première place.
+- Plein d’autres goodies (bouteilles offertes, verres, etc.) par les sponsors de l'évènement !
 
 # Inscriptions
 
@@ -69,6 +73,6 @@ Nous sommes à la recherche de personnes à même de faire « Jury » pour le co
 
 L'évènement est rendu possible grace au soutien de nos partenaires. Un grand merci à eux !
 
-[![Brasserie du Vieux Singe](/images/concours2019/partenaires/vieuxsinge.png){: width=150}](https://www.vieuxsinge.com)[![Au père bouc](/images/concours2019/partenaires/perebouc.png){: width=150}](https://www.facebook.com/auperebouccave)[![Chez Alain](/images/concours2019/partenaires/alain.gif){: width=150}](https://fr-fr.facebook.com/pages/category/Shopping---Retail/Chez-Alain-637261699686875/)[![Maloan](/images/concours2019/partenaires/maloan.png){: width=150}](http://maloan.fr/)[![Le marchand de bières](/images/concours2019/partenaires/biozh.jpeg){: width=150}](https://www.biozh.fr)[![St Malo Craft Beer Expo](/images/concours2019/partenaires/stmalocraftbeerexpo.png){: width=150}](https://saintmalocraftbeerexpo.com/)[![L'Écume des bières](/images/concours2019/partenaires/ecumedesbieres.png){: width=150}](https://www.lecumedesbieres.fr/)
+[![Brasserie du Vieux Singe](/images/concours2019/partenaires/vieuxsinge.png){: width=150}](https://www.vieuxsinge.com)[![Au père bouc](/images/concours2019/partenaires/perebouc.png){: width=150}](https://www.facebook.com/auperebouccave)[![Chez Alain](/images/concours2019/partenaires/alain.gif){: width=150}](https://fr-fr.facebook.com/pages/category/Shopping---Retail/Chez-Alain-637261699686875/)[![Maloan](/images/concours2019/partenaires/maloan.png){: width=150}](http://maloan.fr/)[![Le marchand de bières](/images/concours2019/partenaires/biozh.jpeg){: width=150}](http://www.biozh.fr)[![St Malo Craft Beer Expo](/images/concours2019/partenaires/stmalocraftbeerexpo.png){: width=150}](https://saintmalocraftbeerexpo.com/)[![L'Écume des bières](/images/concours2019/partenaires/ecumedesbieres.png){: width=150}](https://www.lecumedesbieres.fr/)[![Bretagne Brew Shop](/images/concours2019/partenaires/bretagnebrewshop.png){: width=150}](https://bretagne-brewshop.com/)
 
 A vos fourquets !
