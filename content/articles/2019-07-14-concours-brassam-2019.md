@@ -2,8 +2,7 @@ title: Le premier concours annuel des brasseurs amateurs du CRAB
 slug: concours-brassam-2019
 accroche: A vos fourquets !
 image: /images/about/brassins-thematiques.jpg
-date: 2019-07-14
-status: draft
+date: 2019-07-26
 
 ![Logo du CRAB](/images/about/crab-logo-petit.jpg){: .image .right}
 
@@ -17,7 +16,7 @@ Il est possible de concourir avec tout type de *Session IPA*.
 
 Rassurez vous, on n'aime pas spécialement l'idée de se confronter les uns aux autres pour trouver toujours la meilleure bière. L'idée ici est de rester dans une saine émulation, et de créer un environnement dans lequel les évaluations sont bienvenues, mais pour autant franches.
 
-Le concours est ouvert à tou·te·s les brasseu·rs·ses amateur·e·s, donc n'hésitez pas à participer !
+Le concours est ouvert à tou·te·s les brasseurs·ses amateur·e·s, donc n'hésitez pas à participer !
 
 # Prix
 
@@ -48,9 +47,9 @@ Nous sommes à la recherche de personnes à même de faire « Jury » pour le co
 
 # Règles du concours
 
-1. **Style unique : Bières de type « Session »**. Le style est décidé par les brasseurs pros chez qui les gagnant⋅e⋅s pourront aller brasser. Cette année la Brasserie du Vieux Singe. Degré d'alcool inférieur à 4.5%pour tous les styles où cela est possible (cf. BJCP -- liste des styles avec session existante.) La brasserie brassant bio, une contrainte est mise sur les types de malts et houblons utilisés.
+1. **Style unique : Bières de type « Session IPA »**. Le style est décidé par les brasseurs pros chez qui les gagnant⋅e⋅s pourront aller brasser. Cette année la Brasserie du Vieux Singe. Degré d'alcool inférieur à 4.5% pour tous les styles où cela est possible. La brasserie brassant bio, une contrainte est mise sur les types de malts et houblons utilisés. Vous devez spécifier le style de bière brassée parmis les styles suivants : American IPA, Belgian IPA, Black IPA, Brown IPA, Red IPA, Rye IPA et White IPA.
 
-2. **Chaque personne ne peut proposer qu'une seule bière. **Possibilité d'avoir plusieurs candidatures en cas de brassage en binômes/trinômes.
+2. **Chaque personne ne peut proposer qu'une seule bière.** Il est possible d'avoir plusieurs candidatures en cas de brassage en binômes/trinômes.
 
 3. **Frais de participation: 10 euros** avec **adhésion au CRAB pour 1 an** (gratuit pour les adhérents).
 
@@ -58,11 +57,11 @@ Nous sommes à la recherche de personnes à même de faire « Jury » pour le co
 
 5. **Inscription avant le 30 octobre 2019**. Délibérations le samedi 16 novembre.  Dépôt des bouteilles avant le 14 novembre. Une fiche détaillant le style sera à remplir. Elle permettra d'associer des bières similaires pour chaque table de jury.
 
-6. **Il est nécessaire d'envoyer 3 bouteilles de 33cl (ou plus grandes). **Plusieurs points de dépôt sont possibles pour déposer les bouteilles. Soit à la cave « Chez Alain », soit au « Coin Mousse **» (à confirmer)**, ou bien en main propre. Il est possible également d'envoyer un paquet par courrier à la brasserie du Vieux-Singe.
+6. **Il est nécessaire d'envoyer 3 bouteilles de 33cl (ou plus grandes).** Plusieurs points de dépôt sont possibles pour déposer les bouteilles, et vous seront communiqués ultérieurement. Il est possible également d'envoyer un paquet par courrier ou de déposer en main propre à la brasserie du Vieux-Singe.
 
 7. Les bières seront réparties par style avoisinants pour déterminer un *best-in-show* (dernier round avec les gagnants de chaque table). Les grands gagnants sortiront de ce *best-in-show*.  
 
-8. Toutes les bouteilles concourrant doivent être fabriquées par des brasseu·ses·rs amateur·e·s, les brasseurs pro peuvent concourir mais uniquement en utilisant leur matériel personnel.
+8. Toutes les bouteilles concourrant doivent être fabriquées par des brasseurs·ses amateur·e·s, les brasseurs pro peuvent concourir mais uniquement en utilisant leur matériel personnel.
 
 9. Comme toujours, le jury est souverain.
 
@@ -70,6 +69,6 @@ Nous sommes à la recherche de personnes à même de faire « Jury » pour le co
 
 L'évènement est rendu possible grace au soutien de nos partenaires. Un grand merci à eux !
 
-[![Brasserie du Vieux Singe](/images/concours2019/partenaires/vieuxsinge.png){: width=150}](https://www.vieuxsinge.com)[![Au père bouc](/images/concours2019/partenaires/perebouc.png){: width=150}](https://www.facebook.com/auperebouccave)[![Chez Alain](/images/concours2019/partenaires/alain.gif){: width=150}](https://fr-fr.facebook.com/pages/category/Shopping---Retail/Chez-Alain-637261699686875/)[![Maloan](/images/concours2019/partenaires/maloan.png){: width=150}](http://maloan.fr/)[![Le marchand de bières](/images/concours2019/partenaires/biozh.jpeg){: width=150}](https://www.biozh.fr)[![St Malo Craft Beer Expo](/images/concours2019/partenaires/stmalocraftbeerexpo.png){: width=150}](https://www.vieuxsinge.com)
+[![Brasserie du Vieux Singe](/images/concours2019/partenaires/vieuxsinge.png){: width=150}](https://www.vieuxsinge.com)[![Au père bouc](/images/concours2019/partenaires/perebouc.png){: width=150}](https://www.facebook.com/auperebouccave)[![Chez Alain](/images/concours2019/partenaires/alain.gif){: width=150}](https://fr-fr.facebook.com/pages/category/Shopping---Retail/Chez-Alain-637261699686875/)[![Maloan](/images/concours2019/partenaires/maloan.png){: width=150}](http://maloan.fr/)[![Le marchand de bières](/images/concours2019/partenaires/biozh.jpeg){: width=150}](https://www.biozh.fr)[![St Malo Craft Beer Expo](/images/concours2019/partenaires/stmalocraftbeerexpo.png){: width=150}](https://saintmalocraftbeerexpo.com/)[![L'Écume des bières](/images/concours2019/partenaires/lecumedesbieres.png){: width=150}](https://www.lecumedesbieres.fr/)
 
 A vos fourquets !
