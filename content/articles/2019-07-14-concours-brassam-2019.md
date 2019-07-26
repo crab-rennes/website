@@ -28,6 +28,8 @@ Pour avoir un peu de challenge, on à décidé pour cette édition de proposer d
 
 Les gagnant·e·s auront également chacun·e une entrée pour le [St Malo Craft Beer Expo](https://saintmalocraftbeerexpo.com/) avec 6 jetons dégustation.
 
++ plein d’autres goodies (bouteilles offertes, verres, etc.)
+
 # Inscriptions
 
 Les inscription se font en ligne, **avant le 30 octobre 2019**. Une participation de 10€ (ou une adhésion au CRAB) est demandée pour participer. Dépôt de 3 bouteilles (de 33cl ou plus) avant le 14 novembre. D'après nos calculs, il faudrait que vous brassiez en Septembre ;-)
