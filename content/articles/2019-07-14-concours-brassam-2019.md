@@ -53,7 +53,7 @@ Nous sommes à la recherche de personnes à même de faire « Jury » pour le co
 
 3. **Frais de participation: 10 euros** avec **adhésion au CRAB pour 1 an** (gratuit pour les adhérents).
 
-4. **Les gagnant⋅e.s auront l'occasion de brasser une version de leur recette avec la Brasserie du Vieux Singe**. Ceux-ci se réservent le droit de réadapter la recette. La bière sera considérée comme une collaboration  entre la Brasserie du Vieux Singe et le CRAB. Le nom des gagnant⋅e⋅s sera bien entendu spécifié sur l'étiquette.
+4. **Les gagnant⋅e⋅s auront l'occasion de brasser une version de leur recette avec la Brasserie du Vieux Singe**. Ceux-ci se réservent le droit de réadapter la recette. La bière sera considérée comme une collaboration  entre la Brasserie du Vieux Singe et le CRAB. Le nom des gagnant⋅e⋅s sera bien entendu spécifié sur l'étiquette.
 
 5. **Inscription avant le 30 octobre 2019**. Délibérations le samedi 16 novembre.  Dépôt des bouteilles avant le 14 novembre. Une fiche détaillant le style sera à remplir. Elle permettra d'associer des bières similaires pour chaque table de jury.
 
@@ -69,6 +69,6 @@ Nous sommes à la recherche de personnes à même de faire « Jury » pour le co
 
 L'évènement est rendu possible grace au soutien de nos partenaires. Un grand merci à eux !
 
-[![Brasserie du Vieux Singe](/images/concours2019/partenaires/vieuxsinge.png){: width=150}](https://www.vieuxsinge.com)[![Au père bouc](/images/concours2019/partenaires/perebouc.png){: width=150}](https://www.facebook.com/auperebouccave)[![Chez Alain](/images/concours2019/partenaires/alain.gif){: width=150}](https://fr-fr.facebook.com/pages/category/Shopping---Retail/Chez-Alain-637261699686875/)[![Maloan](/images/concours2019/partenaires/maloan.png){: width=150}](http://maloan.fr/)[![Le marchand de bières](/images/concours2019/partenaires/biozh.jpeg){: width=150}](https://www.biozh.fr)[![St Malo Craft Beer Expo](/images/concours2019/partenaires/stmalocraftbeerexpo.png){: width=150}](https://saintmalocraftbeerexpo.com/)[![L'Écume des bières](/images/concours2019/partenaires/lecumedesbieres.png){: width=150}](https://www.lecumedesbieres.fr/)
+[![Brasserie du Vieux Singe](/images/concours2019/partenaires/vieuxsinge.png){: width=150}](https://www.vieuxsinge.com)[![Au père bouc](/images/concours2019/partenaires/perebouc.png){: width=150}](https://www.facebook.com/auperebouccave)[![Chez Alain](/images/concours2019/partenaires/alain.gif){: width=150}](https://fr-fr.facebook.com/pages/category/Shopping---Retail/Chez-Alain-637261699686875/)[![Maloan](/images/concours2019/partenaires/maloan.png){: width=150}](http://maloan.fr/)[![Le marchand de bières](/images/concours2019/partenaires/biozh.jpeg){: width=150}](https://www.biozh.fr)[![St Malo Craft Beer Expo](/images/concours2019/partenaires/stmalocraftbeerexpo.png){: width=150}](https://saintmalocraftbeerexpo.com/)[![L'Écume des bières](/images/concours2019/partenaires/ecumedesbieres.png){: width=150}](https://www.lecumedesbieres.fr/)
 
 A vos fourquets !
