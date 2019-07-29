@@ -51,7 +51,7 @@ Nous sommes à la recherche de personnes à même de faire « Jury » pour le co
 
 # Règles du concours
 
-1. **Style unique : Bières de type « Session IPA »**. Le style est décidé par les brasseurs pros chez qui les gagnant⋅e⋅s pourront aller brasser. Cette année la Brasserie du Vieux Singe. Degré d'alcool inférieur à 4.5% pour tous les styles où cela est possible. La brasserie brassant bio, une contrainte est mise sur les types de malts et houblons utilisés. Vous devez spécifier le style de bière brassée parmis les styles suivants : American IPA, Belgian IPA, Black IPA, Brown IPA, Red IPA, Rye IPA et White IPA.
+1. **Style unique : Bières de type « Session IPA »**. Le style est décidé par les brasseurs pros chez qui les gagnant⋅e⋅s pourront aller brasser. Cette année la Brasserie du Vieux Singe. Degré d'alcool inférieur à 4.5% pour tous les styles où cela est possible. La brasserie brassant bio, une contrainte est mise sur les types de malts et houblons utilisés. Vous devez spécifier le style de bière brassée parmis les styles suivants : American IPA (dont les New England), Belgian IPA, Black IPA, Brown IPA, Red IPA, Rye IPA et White IPA.
 
 2. **Chaque personne ne peut proposer qu'une seule bière.** Il est possible d'avoir plusieurs candidatures en cas de brassage en binômes/trinômes.
 
