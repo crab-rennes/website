@@ -29,7 +29,7 @@ Pour avoir un peu de challenge, on à décidé pour cette édition de proposer d
 Mais aussi… : 
 
 - Une entrée pour chaque finaliste pour le [St Malo Craft Beer Expo](https://saintmalocraftbeerexpo.com/) avec 6 jetons dégustation.
-- Des bons d'achats de 30€, 20€ et 15€ sur [Bretagne Brewshop](https://bretagne-brewshop.com/), avec un kit recette pour la première place.
+- Des bons d'achats de 30€, 20€ et 15€ sur [Bretagne Brewshop](https://bretagne-brewshop.com/), la recette gagnante sera également proposé en kit !
 - Plein d’autres goodies (bouteilles offertes, verres, etc.) offerts par les sponsors de l'évènement !
 
 # Inscriptions
