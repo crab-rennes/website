@@ -17,18 +17,11 @@
 
 {% block content %}
 
-    <!-- Header -->
-    <div id="article" style="background: url('{{ article.image }}') center center; background-size: cover;" class="wrapper">
-        <div id="header">
-            <p class="date">{{ article.locale_date }}</p>
-        </div>
-    </div>
-
-    <!-- Main -->
-    <div class="wrapper style2">
+<!-- Main -->
+<div class="wrapper style2">
+        <div class="title">{{ article.title }}</div>
         <div id="main" class="container">
             <section id="features">
-            <h1>{{ article.title }}</h1>
             {{ article.content }}
             </section>
         </div>

@@ -4,7 +4,6 @@ accroche: A vos fourquets !
 image: /images/about/brassins-thematiques.jpg
 date: 2019-07-26
 
-![Logo du CRAB](/images/about/crab-logo-petit.jpg){: .image .right}
 
 Le CRAB (Collectif Rennais des Amateurs de Bières) organise pour la première édition un concours des brasseurs amateurs. **Les inscriptions sont ouvertes jusqu'au 30 Octobre 2019.**
 
