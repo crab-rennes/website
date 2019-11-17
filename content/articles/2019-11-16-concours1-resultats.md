@@ -1,24 +1,25 @@
 title: Résultats du concours des brasseurs amateurs du CRAB #1
 slug: concours1-resultats
-accroche: 40 inscriptions, 32 bières, 15 jurés… une aprem à déguster.
+accroche: 40 inscriptions, 32 bières, 14 jurés… une aprem à déguster.
 image: /images/concours2019/tasting-crew.jpg
+gallery: concours2019
 date: 2019-11-16
 status: draft
 
 Nous sommes heureux⋅ses de vous présenter les résultats du premier concours style unique du CRAB. Le style était imposé : « Session IPA ».
 
-Nous avons eu 40 inscriptions, 32 bières ont concourues, dégustées par 15 jurés, en deux *rounds*. Les gagnants ont été désignés à la fin du second *round.* Chaque bière à été dégustée selon les règles des concours *BJCP*. Les notes de dégustations seront envoyées aux candidat⋅e⋅s par email.
+Nous avons eu 40 inscriptions, 32 bières ont concourues, dégustées par 14 jurés, en deux *rounds*. Les gagnants ont été désignés à la fin du second *round.* Chaque bière à été dégustée selon les règles des concours *BJCP*. Les notes de dégustations seront envoyées aux candidat⋅e⋅s par email.
 
 Voici les bières gagnantes (les prix sont à récupérer sur Rennes):
 
-**#1 - Pierre James avec « La bière du bordel amer »**, une *Session Black IPA* au cascade et barbe rouge.
+**#1 - Première place : Pierre James avec « La bière du bordel amer »**, une *Session Black IPA* au cascade et barbe rouge.
 
 Il remporte :
 
-* Le fait de pouvoir brasser sa bière avec la [Brasserie du Vieux Singe](https://www.vieuxsinge.com) (Rennes St Jacques)
+* Un brassin « grand format » de sa recette, chez et avec la [Brasserie du Vieux Singe](https://www.vieuxsinge.com) (Rennes St Jacques)
 * Une entrée pour le [St Malo Craft Beer Expo](https://saintmalocraftbeerexpo.com/) avec 6 jetons dégustation.
 * Un bon d'achat de 30€ sur [Bretagne Brewshop](https://bretagne-brewshop.com/)
-* Sa recette recette sera également proposée en kit
+* Sa recette recette sera également proposée en kit par [Bretagne Brewshop](https://bretagne-brewshop.com/)
 
 **#2 - Seconde place : Benoit Orizet avec « Ginger Wheat »**, une *Session White IPA au gingembre*.
 
@@ -34,7 +35,7 @@ Il remporte :
 
 * un fût de 20L, type SodaKeg (fût de soda reconditionné) offert par la cave [Au père bouc](https://www.facebook.com/auperebouccave)
 * Une entrée pour le St Malo Craft Beer Expo avec 6 jetons dégustation.
-* Un bon d'achat de 15€ sur [Bretagne Brewshop](https://bretagne-brewshop.com/)
+* Un bon d'achat de 10€ sur [Bretagne Brewshop](https://bretagne-brewshop.com/)
 
 **#4 - Quatrième place : Loic Lescouarc'h avec « La Faudel »**, une « Session Rye IPA ».
 

@@ -27,4 +27,22 @@
             </section>
         </div>
     </div>
+    {% if article.galleryimages %}
+    <div id="gallery" class="wrapper style3">
+            <div class="title">Et quelques photos… </div>
+        <div id="highlights" class="container">
+            <div class="row 150%">
+            {% for image in article.galleryimages %}
+            <div class="4u 12u(mobile)">
+                <section class="highlight">
+                    <a class="image featured" href="{{ SITEURL }}/images/gallery/{{ article.album }}/{{ image }}"><img class="gallery-image" src="{{ SITEURL }}/images/gallery/{{ article.album }}/{{ image }}" alt="" /></a>
+                </section>
+            </div>
+            {% endfor %}
+            </div>
+        </div>
+    </div>
+    {% endif %}
+
+        
 {% endblock %}

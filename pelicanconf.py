@@ -35,8 +35,9 @@ STATIC_PATHS = [
     "extra/CNAME",
 ]
 EXTRA_PATH_METADATA = {"extra/CNAME": {"path": "CNAME"}}
-PLUGIN_PATHS = [
-    "plugins",
+PLUGIN_PATHS = ["."]
+PLUGINS = [
+    "gallery",
 ]
 
 RELATIVE_URLS = True

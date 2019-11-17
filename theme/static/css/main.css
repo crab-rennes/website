@@ -2712,6 +2712,10 @@
 	padding-top: 2rem;
 }
 
+.gallery-image {
+	image-orientation: from-image;
+}
+
 .features {
 	display: -moz-flex;
 	display: -webkit-flex;
