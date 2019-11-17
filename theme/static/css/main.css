@@ -2703,6 +2703,14 @@
 
 /* Features */
 
+.article-image {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	padding-bottom: 2rem;
+}
+
 .features {
 	display: -moz-flex;
 	display: -webkit-flex;
@@ -2767,13 +2775,17 @@
 			width: calc(100% + 3.5em);
 			height: 13em;
 			overflow: hidden;
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			width: 40%;
 		}
 
 		.features article:first-child .image {
 			height: 20em;
 		}
 
-		.features article .image img {
+		.features article .image img, .features img {
 			width: 100%;
 			display: block;
 			position: relative;
