@@ -13,12 +13,24 @@
     <!--[if lte IE 8]><link rel="stylesheet" href="{{ SITEURL }}/theme/css/ie8.css" /><![endif]-->
   {% endblock head %}
     </head>
-    <body class="homepage">
-        <div id="page-wrapper">
+    <body class="homepage right-sidebar">
 
-            {% block content %}{% endblock %}
-
-            <!-- Highlights -->
+        <!-- Header -->
+        <div id="header-wrapper" class="wrapper">
+            <div id="header">
+                <div id="logo">
+                    <h1><a href="index.html"><img src="{{ SITEURL }}/theme/css/images/logo-transparent.png" alt="CRAB" /></a></h1>
+                </div>
+            </div>
+        </div>
+        <nav id="nav">
+            <ul>
+                {% for title, link in MENUITEMS %}
+                <li><a href="{{ link }}">{{ title }}</a></li>
+                {% endfor %}
+            </ul>
+        </nav>
+        {% block content %}{% endblock %}
         <div class="wrapper style3">
             <div class="title">Les dernières nouvelles</div>
             <div id="highlights" class="container">
