@@ -4,7 +4,6 @@ accroche: 40 inscriptions, 32 bières, 14 jurés… une aprem à déguster.
 image: /images/concours2019/tasting-crew.jpg
 gallery: concours2019
 date: 2019-11-16
-status: draft
 
 Nous sommes heureux⋅ses de vous présenter les résultats du premier concours style unique du CRAB. Le style était imposé : « Session IPA ».
 
